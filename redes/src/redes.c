@@ -14,6 +14,8 @@
 int main(void)
 {
 	puts("!!!Hello World!!!"); /* prints !!!Hello World!!! */
+	puts("Todo el mundo odia el puto mac, YEAH!!");
 	//puts("Mierda pa ti");
 	//retur EXIT_SUCCESS;cs
+
 }
