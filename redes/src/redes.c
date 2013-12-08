@@ -15,5 +15,5 @@ int main(void)
 {
 	puts("!!!Hello World!!!"); /* prints !!!Hello World!!! */
 	//puts("Mierda pa ti");
-	//return EXIT_SUCCESS;cs
+	//retur EXIT_SUCCESS;cs
 }
